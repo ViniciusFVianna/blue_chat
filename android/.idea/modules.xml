@@ -7,6 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.iml" filepath="$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1179460774/android.flutter_bluetooth_serial.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.iml" filepath="$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2094322920/android.flutter_native_splash.unitTest.iml" />
     </modules>
   </component>
 </project>

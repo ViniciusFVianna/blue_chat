@@ -6,16 +6,48 @@ environment:
   sdk: '>=2.17.3 <3.0.0'
 
 dependencies: 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.5
   get: 4.6.5
+  flutter_native_splash: 2.2.4
+  flutter_feather_icons: 2.0.0+1
+  flutter_bluetooth_serial: 0.4.0
   flutter: 
     sdk: flutter
 
 dev_dependencies: 
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.1
   flutter_test: 
     sdk: flutter
+
+flutter_native_splash:
+  color: "#380BEE"
+  image: assets/images/logos/logo.png
+  branding: assets/images/logos/logo.png
+  color_dark: "#380BEE"
+  image_dark: assets/images/logos/logo.png
+  branding_dark: assets/images/logos/logo.png
+
+  android_12:
+    image: assets/images/logos/logo.png
+    icon_background_color: "#380BEE"
+    image_dark: assets/images/logos/logo.png
+    icon_background_color_dark: "#380BEE"
+
+    web: false
 
 flutter: 
   uses-material-design: true
 
+  fonts:
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/NunitoSans-Bold.ttf
+        - asset: assets/fonts/NunitoSans-Regular.ttf
+
+  assets:
+    - assets/
+    - assets/fonts/
+    - assets/images/
+    - assets/images/icons/
+    - assets/images/launcher/
+    - assets/images/logos/
